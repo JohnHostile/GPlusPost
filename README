@@ -1,0 +1,1 @@
+This app opens up the "Share" post interface on the Google+ app. It doesn't do error checking, so it'll probably break if you don't have the Google+ app installed if you try to use it. It can also easily be broken if Google changes anything in an update to the Google+ app. Use at your own risk!
